@@ -2,6 +2,7 @@
 LLD for a social media app like Facebook
 
 Requirements:
+
 a) Ability to create user
 
 b) The user should be able to create posts
